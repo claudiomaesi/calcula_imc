@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;    
+}
+
+.container {
+    width: 500px;
+    height: 280px;
+    margin: 0 auto;
+    padding: 50px 100px;
+    display: block;    
+    background-color: rgb(236, 234, 234);
+}
+
+:root{    
+    --corBtn: rgb(117, 117, 241);
+    --corP: rgb(110, 112, 233);
+}
